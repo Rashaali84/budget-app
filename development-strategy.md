@@ -1,6 +1,6 @@
-# Budget-App: development strategy
+# Budget-App: Development-Strategy
 
-Building this site one step at a time
+Building this site one step at a time according to the following steps .
 
 ## 0. Setup
 
@@ -12,7 +12,7 @@ Building this site one step at a time
 - Create `controllers\event-listeners.js`
 - Create `view-models\user-interface.js`
 
-## 1. User Story: Add-budget-Balance
+## 1. User Story: Add-Budget-Balance
 
 **A user can add value for a budget balance .**
 
