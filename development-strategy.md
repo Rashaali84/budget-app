@@ -16,7 +16,7 @@ Building this site one step at a time
 
 **A user can add value for a budget balance .**
 
-### DOM & styles
+### `DOM & styles`
 
 - Edit both `shared-content\style` and `shared-content\assets`, to add necessary assets and css styles.
 - Create an input and a button for add budget in `index.html`.
@@ -34,7 +34,7 @@ Building this site one step at a time
 
 **A user can add expense which has a value and an amount**
 
-### DOM & styles
+### `DOM & styles`
 
 - Edit both `shared-content\style` and `shared-content\assets`, to add necessary assets and css styles.
 - Create an input and a button for add budget in `index.html`.
@@ -52,7 +52,7 @@ Building this site one step at a time
 
 **A user can edit/delete a previously added expense**
 
-### DOM & styles
+### `DOM & styles`
 
 - Edit both `shared-content\style` and `shared-content\assets`, to add necessary assets and css styles.
 - Create an input and a button for add budget in `index.html`.
@@ -67,6 +67,6 @@ Building this site one step at a time
 - Create function `deleteExpense()` to delete expense value and amount.
 - Create function `totalExpense()` to reflect expense values and amounts.
 
-## 5. Complete README.md
+## 4. Complete README.md
 
 - Complete `README.md` for more details about the project.
