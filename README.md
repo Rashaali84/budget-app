@@ -1,4 +1,4 @@
-# Project Custom-Video-Player
+# BUDGET-APP
 
 ## Table of contents
 
@@ -11,30 +11,12 @@
 
 ## General info
 
-This project is to create a custom video player based on https://JavaScript30.com tutorial.
-
-Main objective of this project is to practice working with others on one shared code base.
+This project is a study case for this video tutorial https://www.youtube.com/watch?v=m_HJ3juuFvo for `john-smilga`. for freecodecamp.org .
 
 The achievements of the project are;
-
-- Train how to work with a team,
-- Fork from project owner,
-- Split project into pieces,
-- Write development strategy,
-- Choose user stories.
-- Work on project board,
-- Create & use issues,
-- Create & use milestones,
-- Create & use labels.
-
-What you can do with this application:
-
-- Play and pause video,
-- Upward/forward the video,
-- Drag current time and resume where you want,
-- Slowdown/speedup the playing video, and volume up/down.
-
-You can try using it [here](https://mesutbe.github.io/Custom-Video-Player/)
+Get more wrapped up concepts about classes in JS and how to use `this` Keyword
+how to parse through DOM and use the data-id property in DOM .
+Here is a demo for the final project [here](https://rashaali84.github.io/budget-app/)
 
 ## Technologies
 
@@ -49,12 +31,12 @@ Clone this repository and start using it with your editor.
 
 ## Screen Capture of Project
 
-![Screenshot from 2020-04-05 13-00-04](https://user-images.githubusercontent.com/59531743/78472973-72259f00-773d-11ea-8816-7a12270a28f9.png)
+![Screenshot]()
 
 ## Project Status
 
-Project finished
+Project is finished .
 
 ## Contact
 
-You can contact me using [my repository](https://mesutbe.github.io/) whenever you want.
+Here is a link for my repository [my repository](https://rashaali84.github.io/)
