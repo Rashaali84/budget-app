@@ -13,7 +13,7 @@
 
 This project is a study case for this video tutorial https://www.youtube.com/watch?v=m_HJ3juuFvo for `john-smilga`. for freecodecamp.org .
 
-The achievements of the project are;
+The achievements of the project are:
 Get more wrapped up concepts about classes in JS and how to use `this` Keyword
 how to parse through DOM and use the data-id property in DOM .
 Here is a demo for the final project [here](https://rashaali84.github.io/budget-app/)
