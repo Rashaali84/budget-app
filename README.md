@@ -31,7 +31,7 @@ Clone this repository and start using it with your editor.
 
 ## Screen Capture of Project
 
-![Screenshot]()
+![Screenshot](shared-content/assets/img/budg.png)
 
 ## Project Status
 
