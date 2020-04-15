@@ -20,7 +20,7 @@ Here is a demo for the final project [here](https://rashaali84.github.io/budget-
 
 ## Technologies
 
-Project is created with:
+This project is created with:
 
 - ECMAScript6 
 - HTML5 /CSS3
