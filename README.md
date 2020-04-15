@@ -22,7 +22,7 @@ Here is a demo for the final project [here](https://rashaali84.github.io/budget-
 
 Project is created with:
 
-- JScript
+- ECMAScript6 
 - HTML5 /CSS3
 
 ## Setup
